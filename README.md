@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C, C#, Unity and Javascript**
 
-- 📫 How to reach me **gustavoaraujo8521@gmail.com**
+- 📫 Reach me at **gustavoaraujo8521@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
