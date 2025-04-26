@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Araujo</h1>
 <h3 align="center">A Computer Science student at the Pontifical Catholic University of Goiás</h3>
 
-- 🌱 I’m currently learning **C, C#, Unity and Javascript**
+- 🌱 I’m currently learning **Java**
 
 - 📫 Reach me at **gustavoaraujo8521@gmail.com**
 
